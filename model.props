@@ -1,0 +1,27 @@
+
+random.seed = 1
+
+stop.at = 5000
+
+count.of.boxes = 4
+
+processors.in.x = 1
+
+processors.in.y = 2
+
+learning.rate = .0005
+discounting.rate = 1
+
+entropy=.75
+
+random.weights=0
+
+team2.random.weights=0
+
+display.board=0
+display.moves=0
+
+team1.reinforcement.learning=1
+team2.reinforcement.learning=0
+
+normalize=1
