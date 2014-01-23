@@ -15,8 +15,8 @@
 #include "repast_hpc/Context.h"
 
 //display includes
-#include "opencv2/core/core.hpp"
-#include "opencv2/highgui/highgui.hpp"
+//#include "opencv2/core/core.hpp"
+//#include "opencv2/highgui/highgui.hpp"
 
 #include <stdio.h>
 #include <boost/mpi.hpp>  //include boost library
@@ -29,8 +29,8 @@
 #include "movePackage.h"
 
 
-#include "chessbox.h"
-#include "chessboard.h"
+//#include "chessbox.h"
+//#include "chessboard.h"
 
 #include <iostream>
 #include <fstream>
